@@ -15,5 +15,8 @@
   	"devDependencies": {
     	"typescript": "^4.9.5"
   	},
+  	"files": [
+  		"build/**/*"
+  	],
  	"homepage": "https://github.com/zahnom/hello-typescript#readme"
 }
